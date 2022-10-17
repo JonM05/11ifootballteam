@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        * {
+          box-sizing: border-box;
+        }
+        
+        /* Create two equal columns that floats next to each other */
+        .column {
+          float: left;
+          width: 50%;
+          padding: 10px;
+        }
+        
+        /* Clear floats after the columns */
+        .row:after {
+          content: "";
+          display: table;
+          clear: both;
+        }
+
+        .submissions {
+            background-color: #b90808;
+            border: 2px solid black;
+            color: black;
+            padding: 5px 10px;
+            text-align: center;
+            display: inline-block;
+            font-size: 20px;
+            margin: 10px 30px;
+            cursor: pointer;
+        }
+
+        .responsive {
+          margin-right: 20px;
+          width: 50%;
+          height: auto;
+        }
+
+
+        </style>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="11Iwebsite.css"/>
+    <title> 11I FC Official </title>
+    <nav>
+        <div class="logo">
+            <img src="11Ilogo-removebg.png" alt="11I Logo">
+        </div>
+        <div class="hamburger">
+            <div class="bars1"></div>
+            <div class="bars2"></div>
+            <div class="bars3"></div>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a href="#history">History</a></li>
+            <li><a href="#team">Team</a></li>
+            <li><a href="#11Ination">11I Nation</a></li>
+        </ul>
+    </nav>
+</head>
+<body>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <section class="home" id="home">
+        <div class="column">
+            <div>
+                <p align="center" style="font-size:30px" class="respnosive">11I Turgut Ozal High-School<br>Football Club,<br><small>founded by Turgut Ozal High School Class 10I of 2021/2022.</small></p>
+                <br>
+                <br>
+                <p style="font-size: 20px; text-align: center; background-color: #b90808; margin-left: 20px; margin-right: 20px;">Next Match<br><small>21 October 2022<br>11I   v   11J<br>(Pre-Season)</small></p>
+            </div>
+        </div>
+        <div class="column">
+            <img align="right" src="11Iflag.gif" alt="11I Flag" class="responsive">
+        </div>
+    </section>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <section id="news">
+        <div class="news">
+            <p align="center" style="font-size:25px;">Quick News</p>
+            <br>
+            <p align="center" style="font-size:24px; margin-left: 15px; margin-right: 15px; background-color: #b90808;"><u>11I beat for the 3rd time pre-season opponents 11J<br>OFFICIAL: G.M. Arbi Bulica leaves leadership of the team! (15 Oct 2022)</u></p>
+            <p style="font-size:16px; margin-left: 15px; margin-right: 15px; background-color: #b90808;">The 11I team has now been poised to another problem: just recently it has been official that General Manager Arbi Bulica is quitting managing. The truth is that this has been a reccuring thought to the ex-manager over the pre-season, mostly related to personal reasons.<br>
+            "The first championship is one to remember. My role on the team gave me the chance to experience it better than anyone: being by the field through all of our matches, being surrounded by fans and spectators,it was just as if I was in the game playing as well. I'm leaving by my personal judgement, I don't think this leadership post suits me anymore, but I will be there by the team at all times."<br>
+            The team played against 11J yesterday on their 6th pre-season match, winning 13-9 still on a rotational formation. Qojle didn't join the team last match, and his plans for his future on the team still aren't clear, while the team itself seems to be bonding together furthermore, and this goalkeeper rotation strategy could lead their defensive play on the championship if Albion makes up his mind for no.<br>
+            Deivid Koci wasn't present last match as well, giving the team the opportunity to play with two attacking players, Karamuca and Kalemaj. Memushi, Sulaj and Çela played as always. It's just a matter of time until things start to escalate and we see an exciting pre-season last stretch, with the teams trying out their final strategies, and 11I is definitely a promising team.</p>
+            <br>
+            <br>
+            <br>
+            <p align="center" style="font-size:24px; margin-left: 15px; margin-right: 15px; background-color: #b90808;"><u>Albion Qojle rumoured to be transfered to 1st Men's Team (13 Oct 2022)</u></p>
+            <p style="font-size:16px; margin-left: 15px; margin-right: 15px; background-color: #b90808;">11I has been frustrated throughout the whole pre-season with the issue of the goalkeeper. After the leave of promising Kejsan Kokiçi the team has been experimenting with different formations and shapeshifting, but it seems to be coming to no avail.
+            Now the team's staff is scouting the Youth Team, with Albion Qojle starting tomorrow as goalkeeper against 11J.<br>
+            General Manager Arbi Bulica had this to say: "I think these pre-season matches are a really big opportunity for us to rotate the team and find the best possible formations and strategies. The championship is in less than a month and I'm content with the performance that the team's had these last matches, though the constant goalkeeper issue is there the whole game.
+            The maturity that the team has shown into playing together and supporting both defense and offense all together gives me a feeling that the team is going to go big this championship."<br>
+            "I think he (Albion) could be a great addition to the team, regarding the fact that our outfield players are too precious to be sacrificed and put in goal. The only thing Albion needs is more match experience and I'm sure he will get the team to where it can achieve the 100%."</p>
+            <br>
+            <br>
+            <br>
+            <p align="center" style="font-size:24px; margin-left: 15px; margin-right: 15px; background-color: #b90808;"><u>Exciting Pre-Season Match against 11J on Friday (13 Oct 2022)</u></p>
+            <p style="font-size:16px; margin-left: 15px; margin-right: 15px; background-color: #b90808;">The Turgut Football League is drawing near and teams are concluding with their best teams. 11I is playing against 11J this pre-season, an all-boys class coming from Mehmet Akif for Boys. The performances have been pretty split between the teams, though statistically 11J has shown more superior, mostly favored by 11I's unresolved formation issues. As a proper goalkeeper has yet to be found, the team's playmaking and offensive play seems more evolved compared to last year.<br>
+            The discovery of Deivid Koci, an integral right midfielder that's shown great skills and awareness will definitely debut this championship. Meanwhile from the current players, Jon Memushi, Parid Çela, Kriston Sulaj seem to adapt easily to anywhere on the field. On the striker position, both Reid Karamuca and Franc Kalemaj seem like great alternatives, although they show different traits on their playing.<br>
+            Another interesting addition to the team could be new goalkeeper Albion Qojle, but his signing is still on the talks and nothing has been made official yet.            
+        </div>
+    </section>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <section id="history">
+        <div class="history">
+            <p align="center" style="font-size:25px;">Club History</p>
+            <br>
+            <p style="font-size:16px; margin-left: 15px; margin-right: 15px;">11I club was founded in 2021, debuting in the 2021/2022 TFL pre-season, qualifiers for the TFL championship.</p>
+            <br>
+            <p style="font-size:24px; margin-left: 15px; margin-right: 15px;">2021/22<br>Pre-Season</p>
+            <p style="font-size:15px; margin-left: 15px; margin-right: 15px;">10I played against 10H in the 2021/22 Pre-Season. From September until mid-October the matches between the two were friendlies, then the teams played in a best of 3 play-in series for the upcoming championship.
+            The first match was won by 10I, but 10H recovered quickly in the second match, getting back in the race, but 10I won the final match, heading over to the Turgut Football League Championship.</p>
+            <p style="font-size:24px; margin-left: 15px; margin-right: 15px;">Championship</p>
+            <p style="font-size:15px; margin-left: 15px; margin-right: 15px;">The draw matched up 10I with 11D, as a Round of 16 match. The starting team for 10I had Kokiçi on goal, Sulaj as a center-defensive-midfielder, Memushi and Çela playing on the left and right wing-backs and Karamuca as a center forward.<br>
+            First half ended 1-0 to 11D, and 11D scored again shortly after the start of second half. 5 minutes to full time, 10I saw redemption, coming back with an assisting cross from Memushi to Çela, and a tap-in from Memushi to take the score to 2-2. But during the injury time, 11D managed to score a brace, kicking 10I out of the competition. After an intense match of a roller-coaster of emotions, 10I showed their seriousness in the match, never giving up until the last minute.</p>
+            <div class="column">
+                <img align="center" src="10Iformacion.jpeg" alt="10I Formation" class="responsive">
+            </div>
+            <div class="column">
+                <img align="center" src="10Igazeta.jpeg" alt="10I Newspaper" class="responsive">
+            </div>
+            <p style="font-size:24px; margin-left: 15px; margin-right: 15px;">2022/23 (to be written)</p>
+        </div>
+    </section>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <section id="team">
+        <div class="team">
+            <p align="center" style="font-size:25px;">2022-23 11I Team Roster</p>
+            <p style="font-size: 20px; margin-left: 15px; margin-right: 15px;">PLAYERS:</p>
+            <ul style="font-size: 18px; margin-left: 15px; margin-right: 15px; background-color: black; color: #b90808;">
+                <li style="color: #b90808;">1 Albion QOJLE</li>
+                <li style="color: #b90808;">3 Jon MEMUSHI</li>
+                <li style="color: #b90808;">4 Deivid KOÇI</li>
+                <li style="color: #b90808;">5 Franc KALEMAJ</li>
+                <li style="color: #b90808;">6 Parid ÇELA</li>
+                <li style="color: #b90808;">7 Reid KARAMUÇA</li>
+                <li style="color: #b90808;">10 Kriston SULAJ</li>
+            </ul>
+            <br>
+            <h1 style="font-size:18px; margin-left: 15px; margin-right: 15px; background-color: black; color: #b90808;">MANAGER: Arbi Bulica (2021-2022)</h1>
+        </div>
+    </section>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <section id="11Ination">
+        <div id="11Ination">
+            <p align="center" style="font-size:25px;">11I Nation</p>
+            <p style="font-size:16px; margin-left: 15px; margin-right: 15px;">Here we publish all fan-related content, which you can submit as well clicking the link below.<br></p>
+            <a href='mailto:jonmemushi@turgutozal.edu.al'>
+                <button class="submissions">
+                    Submit here by E-Mail
+                </button>
+            </a>
+            <br>
+            <br>
+            <div class="column">
+            <img src="10Iposter.jpeg" class="responsive">
+            </div>
+        </div>
+    </section>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <section id="pageend">
+        <div style="text-align:center">
+            <a href="#"><img src="11IPageEnd.jpeg" class="responsive"></a>
+        </div>
+    </section>
+    <script src="11Iwebsite.js"></script>
+</body>
+</html>
